@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lab 1.2 Quarto Webpage",
+    "section": "",
+    "text": "This is an introduction to the webpage. In the page, I will citate two of the most influencial papers about Gradient Boosting algorithms:\n\n\n\n\n\n\n\n\nPaper Name\nWriters\nYear\n\n\n\n\nGreedy Function Approximation: A Gradient Boosting Machine\nJerome H. Friedman\n2001\n\n\nXGBoost: A Scalable Tree Boosting System\nChen, Tianqi and Guestrin, Carlos\n2016\n\n\n\nHere’s a sentence with a footnote. 1\n\n\n\n\n**About Gradient Boosting:**  \nGradient boosting of regression trees produces competitive,\nhighly robust, interpretable procedures for both \nregression and classification.\n\n\n**About XGBoost:**  \nIn 2016 a newer scalable end-to-end tree boosting \nsystem released, allowing data scientists to achieve \nstate-of-the-art results on many machine learning \nchallenges."
+  },
+  {
+    "objectID": "index.html#gradient-boosting",
+    "href": "index.html#gradient-boosting",
+    "title": "Lab 1.2 Quarto Webpage",
+    "section": "",
+    "text": "**About Gradient Boosting:**  \nGradient boosting of regression trees produces competitive,\nhighly robust, interpretable procedures for both \nregression and classification.\n\n\n**About XGBoost:**  \nIn 2016 a newer scalable end-to-end tree boosting \nsystem released, allowing data scientists to achieve \nstate-of-the-art results on many machine learning \nchallenges."
+  },
+  {
+    "objectID": "index.html#visualizations-of-writing-a-thesis",
+    "href": "index.html#visualizations-of-writing-a-thesis",
+    "title": "Lab 1.2 Quarto Webpage",
+    "section": "2.1 Visualizations of Writing a thesis",
+    "text": "2.1 Visualizations of Writing a thesis\nThe best way to understand how it feels to write a thesis with time restriction, is with visualizations. The following is a good way to understand the process behind:\n\n\n\n\n\nflowchart LR\nA[Research for Ideas] --&gt; B(Find an idea)\nB --&gt; C(Non-stop writing)\nC --&gt; D(Panic)\nD --&gt; E(Deadline approaching)\nE --&gt; |What is sleep?|F(Work the last 72 hours straight)\nF --&gt; G(Submission)\nG --&gt; H(Drink)\n\n\n\n\n\n\nAnother visual way to explain the proccess is with the video:\n\n\nVideo\nMe after a productive day of writing:\n\n\nIt is easy to procrastinate instead of writing too, here are memes I made instead of writing:\nMy Spanish friend never had a milkshake before moving to the US:\n\nMy old coach’s game day outfit during covid always reminded me of something"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Lab 1.2 Quarto Webpage",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the footnote.↩︎"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\nRidiculus est inceptos enim mattis eros odio etiam suscipit. Justo nascetur condimentum risus et nostra vestibulum convallis blandit. Eros pretium suscipit aenean libero augue scelerisque in. Aenean nam enim consequat nam eu cras suscipit. Commodo ullamcorper euismod efficitur; ultricies quis risus. Justo luctus dolor commodo, class viverra lobortis finibus.\nQuis malesuada morbi enim himenaeos; montes tortor interdum. Interdum sapien faucibus vulputate nisl dapibus suspendisse neque. Magna suscipit turpis gravida bibendum curae tincidunt. Et turpis fermentum class sollicitudin potenti magnis sed. Magnis penatibus condimentum ipsum ullamcorper cursus rutrum venenatis facilisis. Augue sollicitudin nam cursus ultricies tempor cursus varius. Primis diam curabitur accumsan aliquet diam cursus. Quis ipsum commodo ultricies a non vulputate consequat potenti."
+  },
+  {
+    "objectID": "about.html#header-2",
+    "href": "about.html#header-2",
+    "title": "About",
+    "section": "",
+    "text": "Ridiculus est inceptos enim mattis eros odio etiam suscipit. Justo nascetur condimentum risus et nostra vestibulum convallis blandit. Eros pretium suscipit aenean libero augue scelerisque in. Aenean nam enim consequat nam eu cras suscipit. Commodo ullamcorper euismod efficitur; ultricies quis risus. Justo luctus dolor commodo, class viverra lobortis finibus.\nQuis malesuada morbi enim himenaeos; montes tortor interdum. Interdum sapien faucibus vulputate nisl dapibus suspendisse neque. Magna suscipit turpis gravida bibendum curae tincidunt. Et turpis fermentum class sollicitudin potenti magnis sed. Magnis penatibus condimentum ipsum ullamcorper cursus rutrum venenatis facilisis. Augue sollicitudin nam cursus ultricies tempor cursus varius. Primis diam curabitur accumsan aliquet diam cursus. Quis ipsum commodo ultricies a non vulputate consequat potenti."
+  },
+  {
+    "objectID": "slides/slides.html#quote",
+    "href": "slides/slides.html#quote",
+    "title": "My Presentation with ipsum lorem",
+    "section": "Quote",
+    "text": "Quote\n\nTake the challenges hosted by the machine learning competition site Kaggle for example. Among the 29 challenge winning solutions 3 published at Kaggle’s blog during 2015, 17 solutions used XGBoost. Among these solutions, eight solely used XGBoost to train the model, while most others combined XGBoost with neural nets in ensembles (Chen and Guestrin 2016)"
+  },
+  {
+    "objectID": "slides/slides.html#picture-1",
+    "href": "slides/slides.html#picture-1",
+    "title": "My Presentation with ipsum lorem",
+    "section": "Picture 1",
+    "text": "Picture 1\n\nA distribution of house sales prices before log transform:"
+  },
+  {
+    "objectID": "slides/slides.html#picture-2",
+    "href": "slides/slides.html#picture-2",
+    "title": "My Presentation with ipsum lorem",
+    "section": "Picture 2",
+    "text": "Picture 2\n\nA distribution of house sales prices after log transform:"
+  },
+  {
+    "objectID": "slides/slides.html#code-block",
+    "href": "slides/slides.html#code-block",
+    "title": "My Presentation with ipsum lorem",
+    "section": "Code Block",
+    "text": "Code Block\n\n\nCode\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# Generate some data\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\n\n# Plotting the data\nplt.plot(x, y)\nplt.title(\"Sine Wave\")\nplt.xlabel(\"x\")\nplt.ylabel(\"sin(x)\")\nplt.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#references",
+    "href": "slides/slides.html#references",
+    "title": "My Presentation with ipsum lorem",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\nChen, Tianqi, and Carlos Guestrin. 2016. “XGBoost: A Scalable Tree Boosting System.” In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 785–94. KDD ’16. New York, NY, USA: Association for Computing Machinery. https://doi.org/10.1145/2939672.2939785."
+  }
+]

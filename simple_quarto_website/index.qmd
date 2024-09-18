@@ -1,7 +1,85 @@
 ---
-title: "simple_quarto_website"
+title: "Lab 1.2 Quarto Webpage"
+author: "Nadav Gerner"
+format:
+  html:
+    embed-resources: true
+    toc: true
+    bibliography: reference.bib
+    bibliographystyle: apa
+
 ---
 
-This is a Quarto website.
+# 1. Introduction
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is an introduction to the webpage. In the page, I will citate two of the most influencial papers about `Gradient Boosting algorithms`:
+
+| **Paper Name**     | **Writers**              | **Year** |
+|-----------------|------------------------------|-----------|
+| **Greedy Function Approximation: A Gradient Boosting Machine**   | Jerome H. Friedman | 2001        |
+| **XGBoost: A Scalable Tree Boosting System**   | Chen, Tianqi and Guestrin, Carlos| 2016        |
+
+Here's a sentence with a footnote. [^1]
+
+## 1.1 Gradient Boosting
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    **About Gradient Boosting:**  
+    Gradient boosting of regression trees produces competitive,
+    highly robust, interpretable procedures for both 
+    regression and classification.
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    **About XGBoost:**  
+    In 2016 a newer scalable end-to-end tree boosting 
+    system released, allowing data scientists to achieve 
+    state-of-the-art results on many machine learning 
+    challenges.
+  </div>
+</div>
+
+# 2. Boosting with XGBoost
+
+I named my undergraduate thesis `Boosting with XGBoost` because I thought it was a cool name for a paper exploring the mathematics behind boosting algorithms.
+The most common loss function for regression problems is the MSE: $L(y,F) =  \frac{1}{2} * (y - F)^2 \text{.}$. The main reasons the MSE is common are:
+
+- It is a smooth function.
+- It is a differentiable loss function, meaning we can deply optimizing algorithms to minimize it.
+
+The reason I chose this topic was because 
+
+> Take the challenges hosted by the machine learning competition site Kaggle for example. Among the 29 challenge winning solutions 3 published at Kaggle’s blog during 2015, 17 solutions used XGBoost. Among these solutions, eight solely used XGBoost to train the model, while most others combined XGBoost with neural nets in ensembles [@chen2016xgboost].
+
+## 2.1 Visualizations of Writing a thesis
+
+The best way to understand how it feels to write a thesis with time restriction, is with visualizations.
+The following is a good way to understand the process behind:
+
+```{mermaid}
+flowchart LR
+A[Research for Ideas] --> B(Find an idea)
+B --> C(Non-stop writing)
+C --> D(Panic)
+D --> E(Deadline approaching)
+E --> |What is sleep?|F(Work the last 72 hours straight)
+F --> G(Submission)
+G --> H(Drink)
+```
+
+Another visual way to explain the proccess is with the video:
+
+![Me after a productive day of writing:](images/Spongbob.mp4)
+
+It is easy to procrastinate instead of writing too, here are memes I made instead of writing:
+
+My Spanish friend never had a milkshake before moving to the US:
+
+<img src="images/AitorMeme.jpg"  width="200" />
+
+My old coach's game day outfit during covid always reminded me of something
+
+<img src="images/BreakingBadMeme.jpg" width="200" />
+
+
+[^1]: This is the footnote.

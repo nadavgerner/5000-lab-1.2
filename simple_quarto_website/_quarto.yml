@@ -5,9 +5,13 @@ website:
   title: "simple_quarto_website"
   navbar:
     left:
-      - href: index.ipynb
+      - href: index.qmd
         text: Home
-      - about.qmd
+      - about.ipynb
+      - slides/slides.ipynb
+
+bibliography: reference.bib
+bibliographystyle: apa
 
 format:
   html:
